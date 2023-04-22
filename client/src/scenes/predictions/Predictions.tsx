@@ -118,4 +118,4 @@ const Predictions = () => {
   )
 }
 
-export default Predictions
+export { Predictions }
